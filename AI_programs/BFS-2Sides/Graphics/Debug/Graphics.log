@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\afeka\desktop\graphics\graphics\main.cpp(36): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\afeka\desktop\graphics\graphics\main.cpp(37): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+c:\users\afeka\desktop\graphics\graphics\main.cpp(266): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Graphics.vcxproj -> C:\Users\afeka\Desktop\Graphics\Debug\Graphics.exe
